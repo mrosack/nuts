@@ -43,6 +43,10 @@
     "type": "git",
     "url": "https://github.com/GitbookIO/nuts.git"
   },
+  "engines": {
+    "node": ">=6.9.1 <7",
+    "npm": ">3"
+  },
   "scripts": {
     "start": "node bin/web.js",
     "test": "mocha --reporter list"
