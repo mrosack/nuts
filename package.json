@@ -44,8 +44,7 @@
     "url": "https://github.com/GitbookIO/nuts.git"
   },
   "engines": {
-    "node": ">=6.9.1 <7",
-    "npm": ">3"
+    "node": "6.9.1"
   },
   "scripts": {
     "start": "node bin/web.js",
